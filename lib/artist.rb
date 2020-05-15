@@ -13,7 +13,7 @@ class Artist
     @@all
   end
   
-  def name
+  def name(artist)
     
   end
   
